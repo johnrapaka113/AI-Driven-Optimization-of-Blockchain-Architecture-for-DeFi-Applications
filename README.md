@@ -93,6 +93,7 @@ Example Use Cases
     A researcher simulates future market scenarios and stress tests a virtual portfolio.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgements
