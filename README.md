@@ -56,7 +56,7 @@ Installation
 
 Clone the Repository
 
-    git clone https://github.com/your-username/ai-blockchain-finance-platform.git
+    git clone https://github.com/johnrapaka113/ai-blockchain-finance-platform.git
     cd ai-blockchain-finance-platform
 
 Create and Activate a Virtual Environment
